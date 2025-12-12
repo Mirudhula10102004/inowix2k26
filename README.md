@@ -8,6 +8,10 @@ The website shows all technical and non-technical events, rules, registration li
 
 **28 January 2026**
 
+🌐 **Live Website**
+
+🔗 https://inowix2k25.netlify.app/
+
 📌 **Features**
 
 Simple and modern UI
