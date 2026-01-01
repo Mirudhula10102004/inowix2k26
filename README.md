@@ -1,6 +1,6 @@
-**INOWIX 2K25 – Event Website**
+**INOWIX 2K26 – Event Website**
 
-This is the official website for **INOWIX 2K25**, a symposium conducted by the **Department of Artificial Intelligence & Data Science**, **KVCET**.
+This is the official website for **INOWIX 2K26**, a symposium conducted by the **Department of Artificial Intelligence & Data Science**, **KVCET**.
 
 The website shows all technical and non-technical events, rules, registration link, countdown, and contact details.
 
@@ -10,7 +10,7 @@ The website shows all technical and non-technical events, rules, registration li
 
 🌐 **Live Website**
 
-🔗 https://inowix2k25.netlify.app/
+🔗 https://inowix2k26.netlify.app/
 
 📌 **Features**
 
@@ -73,4 +73,4 @@ npm run build
 
 **Email:** inowixadskvcet@gmail.com
 
-**Instagram:** @inowix_2k25
+**Instagram:** @inowix_2k26
